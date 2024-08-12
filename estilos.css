@@ -1,0 +1,29 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.carousel-item img {
+  height: 500px;
+  object-fit: cover;
+}
+
+#presentationSection .fa-3x {
+  margin-bottom: 15px;
+  color: #007bff;
+}
+
+#contactSection {
+  margin-top: 60px;
+}
+
+footer a {
+  font-size: 24px;
+}
+
+footer a:hover {
+  color: #007bff;
+}
